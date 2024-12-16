@@ -1,0 +1,25 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments (if you use a virtual environment)
+venv/
+.venv/
+env/
+.env/
+
+# PyCharm-specific files (IDE config)
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Other files to ignore
+*.swp
+*~
